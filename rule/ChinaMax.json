@@ -13,19 +13,19 @@
         "officecdn",
         "taobao",
         "bilibili",
+        "qiyi",
         "hnagroup",
-        "weibo",
-        "qiyi"
+        "weibo"
       ]
     },
     {
       "domain_suffix": [
+        "citic",
         "cn",
         "ms",
         "alibaba",
         "alipay",
         "baidu",
-        "citic",
         "icbc",
         "sohu",
         "taobao",
