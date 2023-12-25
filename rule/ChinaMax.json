@@ -21,12 +21,11 @@
     {
       "domain_suffix": [
         "alipay",
+        "citic",
         "cn",
         "ms",
         "alibaba",
         "baidu",
-        "citic",
-        "icbc",
         "sohu",
         "taobao",
         "tmall",
@@ -62,7 +61,8 @@
         "xn--vhquv",
         "xn--vuq861b",
         "xn--xhq521b",
-        "xn--zfr164b"
+        "xn--zfr164b",
+        "icbc"
       ]
     },
     {
