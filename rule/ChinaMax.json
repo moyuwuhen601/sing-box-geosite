@@ -12,23 +12,24 @@
         "officecdn",
         "taobao",
         "bilibili",
+        "qiyi",
         "hnagroup",
         "stripe",
-        "weibo",
-        "qiyi"
+        "weibo"
       ]
     },
     {
       "domain_suffix": [
         "alipay",
-        "cn",
-        "ms",
         "alibaba",
-        "baidu",
-        "citic",
-        "sohu",
         "taobao",
         "tmall",
+        "cn",
+        "ms",
+        "baidu",
+        "citic",
+        "icbc",
+        "sohu",
         "unicom",
         "wang",
         "xn--1qqw23a",
@@ -61,8 +62,7 @@
         "xn--vhquv",
         "xn--vuq861b",
         "xn--xhq521b",
-        "xn--zfr164b",
-        "icbc"
+        "xn--zfr164b"
       ]
     },
     {
