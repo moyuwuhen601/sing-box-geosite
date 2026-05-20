@@ -12,10 +12,10 @@
         "officecdn",
         "taobao",
         "bilibili",
-        "qiyi",
         "hnagroup",
         "stripe",
-        "weibo"
+        "weibo",
+        "qiyi"
       ]
     },
     {
@@ -26,6 +26,7 @@
         "alibaba",
         "baidu",
         "citic",
+        "icbc",
         "sohu",
         "taobao",
         "tmall",
@@ -62,8 +63,7 @@
         "xn--vhquv",
         "xn--vuq861b",
         "xn--xhq521b",
-        "xn--zfr164b",
-        "icbc"
+        "xn--zfr164b"
       ]
     },
     {
@@ -12286,6 +12286,7 @@
         "74.119.193.64/26",
         "74.119.193.8/29",
         "74.125.16.64/26",
+        "74.214.161.0/24",
         "74.63.27.0/24",
         "74.80.115.0/24",
         "75.75.236.0/29",
